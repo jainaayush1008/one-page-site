@@ -1,0 +1,24 @@
+.navbar-nav{
+    display: flex;
+    justify-content: space-between;
+    text-shadow: 2px 2px 2px snow;
+}
+#grad
+{
+    padding: 50px;
+    background-image: linear-gradient(cyan , blue, purple);
+    text-align: center;
+}
+#grad2{
+    background-color: whitesmoke;
+    text-align: center;
+    padding-top: 30px;
+}
+body{
+    background-color: white;
+}
+.card{
+    margin: 30px;
+    text-shadow: 2px 2px 2px snow;
+}
+
